@@ -1,0 +1,7 @@
+<IfModule mod_rewrite.c>
+IndexIgnore *
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^admin$ main.php [L,QSA]
+RewriteRule ^login$ login.php [L,QSA]
+</IfModule>

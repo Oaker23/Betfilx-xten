@@ -1,0 +1,37 @@
+/* your styles go here */
+
+.all-box{
+    text-align: center;
+    padding: 25px 20px 15px 10px;
+    border-radius: 2px;
+    margin: 5px -7px 5px -7px;
+}
+.box-green{
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+.box-red{
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+.box-yellow{
+    color: #212529;
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+.box-far{
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+#sidebar{
+    background: #f6f7fb;
+}
+.sidebar-list-item{
+     /* border: 2px solid black;  */
+    margin-top: 6px;
+    margin-right: 8px;
+    background: white;
+}

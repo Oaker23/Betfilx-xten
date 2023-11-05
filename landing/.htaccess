@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+IndexIgnore *
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^home$ index.php [L,QSA]
+
+</IfModule>
+

@@ -1,0 +1,95 @@
+# Translation of Themes - Twenty Nineteen in Thai
+# This file is distributed under the same license as the Themes - Twenty Nineteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-12 07:57:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: th\n"
+"Project-Id-Version: Themes - Twenty Nineteen\n"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ขอโทษครับ  แต่ไม่มีสิ่งใดตรงกับเงื่อนไขการค้นหาของคุณ  กรุณาลองใหม่อีกครั้งด้วยคำที่ต่างออกไป"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "ไม่พบสิ่งใด"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "พร้อมที่จะเผยแพร่เรื่องแรกของคุณหรือไม่? <a href=\"%1$s\">เริ่มต้นได้ที่นี่</a>"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "ก่อนหน้า"
+
+#: comments.php:96
+msgid "Next"
+msgstr "ถัดไป"
+
+#: image.php:52 template-parts/content/content-page.php:27
+#: template-parts/content/content.php:49
+#: template-parts/content/content-single.php:40
+msgid "Pages:"
+msgstr "หน้า:"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "ข้ามไปยังบทความ"
+
+#: functions.php:61 template-parts/header/site-branding.php:46
+msgid "Social Links Menu"
+msgstr "เมนูลิงก์โซเชียล"
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "การแสดงความเห็นถูกปิด"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ขอโทษครับ  ไม่พบหน้านั้น"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ดูเหมือนว่าไม่พบสิ่งใดบนที่อยู่นั้น  บางทีคุณอยากลองใช้การค้นหา?"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ดูเหมือนว่าเราไม่สามารถค้นหาสิ่งที่คุณกำลังมองหาอยู่  บางทีการค้นหาอาจช่วยคุณได้"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content.php:36
+#: template-parts/content/content-single.php:27
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "อ่านเพิ่มเติม<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "เรื่องถัดไป"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86 inc/template-tags.php:98
+msgid ", "
+msgstr ","
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "เมนูด้านบน"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "เรื่องก่อนหน้า"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "ทีมเวิร์ดเพรส"
+
+#. Author URI of the theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
